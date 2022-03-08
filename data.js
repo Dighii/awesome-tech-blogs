@@ -3415,4 +3415,25 @@ module.exports = [
       "DevOps",
     ],
   },
+  {
+    name: "Alligator.io",
+    description:
+      "Alligator.io is born out of a love for the web platform and Open Source software. The goal is to try and make it easy and quick to understand things that are otherwise daunting to untrained eyes. Modus operandi: Why be verbose when you can be succinct..",
+    url: "https://www.alligator.io/",
+    twitter: "@alligatorio",
+    tags: [
+      "AWS",
+      "Serverless",
+      "Blog",
+      "Open Source",
+      "JavaScript",
+      "Node.js",
+      "React",
+      "DevOps",
+      "Cloud Infrastructure",
+      "Vue.js",
+      "Database",
+      "Angular",
+    ],
+  },
 ];
